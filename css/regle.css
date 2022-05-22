@@ -1,0 +1,55 @@
+.body-bg {
+    background: linear-gradient(1turn, #922296, #610655);
+    height: 93vh;
+    margin: 0 5px;
+    background-color: black;
+    color: white;
+}
+.section{
+    margin: 0 10px ;
+}
+
+
+.blanc{
+    text-align: left;
+
+}
+.titre{
+    text-align: center;
+    font-size: 50px;
+
+    margin-left: 70px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    margin-right: 25px;
+}
+
+.sous-titre{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 25px;
+}
+.liste{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 25px;
+}
+.blanc{
+    text-align: center;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 25px;
+}
+
+.paragraphe{
+    text-align: center;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 25px;
+}

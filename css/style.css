@@ -1,0 +1,36 @@
+.body-bg {
+    background: linear-gradient(1turn, #922296, #610655);
+    height: 93vh;
+    margin: 0 5px;
+    background-color: black;
+}
+.blanc{
+    color: white;
+    margin: 0 5px ;
+
+}
+.btn-choice{
+    color: white;
+    background: linear-gradient(1turn, #922296, #610655);
+    transition: color 0.3s background 1s;
+
+    
+}
+
+.btn-choice:hover{
+    color: #922296;
+    background: black;
+    border-color: #922296 !important;
+
+}
+h3 {
+    text-shadow: 1.5px 1.5px #555;
+}
+div.btn-choice{
+    cursor: default;
+}
+div.btn-choice:hover{
+    /* cursor: default; */
+    color: white;
+    background: linear-gradient(1turn, #922296, #610655);
+}
